@@ -1,0 +1,52 @@
+## <i><b> Follow Me</b></i> <br>[(https://github.com/errorzim)<br> [![Facebook](facebook)](https://www.facebook.com/sunnyLeon.ar.vatar.me)
+
+<h1 align="center">ZIM0.5</h1>
+
+<p align="center">
+
+      A new international facebook account cracker tool for termux users
+
+</p>
+
+## <b>installation</b>
+
+```
+
+$ pkg update
+
+$ pkg upgrade
+
+$ pkg install python
+
+$ pkg install python2
+
+$ pip2 install requests
+
+$ pip2 install mechanize
+
+$ pip2 install bs4
+
+$ pkg install git
+
+$ git clone https://github.com/errorzim/zim0.5.git
+
+$ cd zim0.5
+
+$ Python2 errorzim.py
+
+```
+
+## <b>Access Token Generator Apk</b><br>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
